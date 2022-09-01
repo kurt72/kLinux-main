@@ -1,0 +1,12 @@
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/kurt72/kLinux-scripts.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/kurt72/kLinux-tools.git
+[submodule "Documentation"]
+	path = Documentation
+	url = https://github.com/kurt72/kLinux-dpp.git
+[submodule "samples"]
+	path = samples
+	url = https://github.com/kurt72/kLinux-spp.git
